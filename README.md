@@ -61,9 +61,6 @@ POST ```http://localhost:5000/swapToken```
 
 Node, Express, TypeScript, Jupiter, Jito_Bundle, @solana/web3
 
-## Badges
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) [![GPLv3 License](https://img.shields.io/badge/License-Flamingo-red.svg)](https://opensource.org/licenses/)
 
 ## Feedback
 
